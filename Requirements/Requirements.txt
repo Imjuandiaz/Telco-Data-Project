@@ -1,0 +1,10 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+pycaret
+autoviz
+ydata-profiling
+missingno
+dython
